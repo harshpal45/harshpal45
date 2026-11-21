@@ -60,7 +60,7 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=NirbhayNBY\&show_icons=true\&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=harshpal45\&show_icons=true\&theme=dark)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=harshpal45\&theme=dark)
 
@@ -70,7 +70,7 @@
 
 ## 📈 Contribution Graph
 
-[![HarshNirbhay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshpal45&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f778ba&area=true)](https://github.com/harshpal45)
+[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshpal45&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f778ba&area=true)](https://github.com/harshpal45)
 
 ---
 
